@@ -7,7 +7,6 @@ package com.rsh.tkachenkoni.appbleblutoothutil
  */
 object AppConstants {
 
-    const val ID_PERSON = "id_person"
     const val ACTION_RECIEVER_SEND_RECIEVE_DATA = "com.rsh.tkachenkoni.industrymeteranalizer.reciever.send_recieve_data"
     const val ACTION_RECIEVER_SHOW_MESSAGE = "com.rsh.tkachenkoni.industrymeteranalizer.reciever.show_message"
     const val ACTION_RECIEVER_START_SCAN = "com.rsh.tkachenkoni.industrymeteranalizer.reciever.start_scan"

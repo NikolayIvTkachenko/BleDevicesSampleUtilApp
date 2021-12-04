@@ -36,7 +36,6 @@ class MainActivity : AppCompatActivity(), I_BluetoothCommandMethods, I_ConnectOp
             bleService = binderService.getService()
             isBound = true
 
-
             scriptActionStep01()
         }
 
